@@ -1,0 +1,4 @@
+O que é Virtualenv:
+O Virtualenv, é uma ferramenta essencial para desenvolvedores Python, pois permite criar e gerenciar ambientes isolados para cada projeto. 
+Imagine ter um espaço dedicado para cada projeto, sem interferência entre eles, como se cada um estivesse em sua própria "caixa de areia".
+
