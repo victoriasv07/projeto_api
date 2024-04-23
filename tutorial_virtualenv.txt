@@ -2,3 +2,11 @@ O que é Virtualenv:
 O Virtualenv, é uma ferramenta essencial para desenvolvedores Python, pois permite criar e gerenciar ambientes isolados para cada projeto. 
 Imagine ter um espaço dedicado para cada projeto, sem interferência entre eles, como se cada um estivesse em sua própria "caixa de areia".
 
+
+Como fazer o download do Virtualenv:
+Passo 1. Instale o Python (se ainda não estiver instalado), pois o Virtualenv é uma ferramenta para Python, então você precisa ter o Python instalado antes de prosseguir.
+
+Passo 2. Digite o seguinte comando e pressione Enter: pip install virtualenv
+
+Passo 3. Para confirmar se o Virtualenv foi instalado corretamente, digite o seguinte comando e pressione Enter: virtualenv --version
+Se a instalação foi bem-sucedida, você verá a versão do Virtualenv instalada exibida na tela.
