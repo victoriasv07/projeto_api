@@ -3,6 +3,7 @@ Python é uma linguagem de programação versátil e popular, conhecida por sua 
 diversos tipos de aplicações, desde programas simples até projetos complexos, devido à sua sintaxe clara e ampla gama de bibliotecas.
 É muito utilizada em áreas como desenvolvimento web, ciência de dados, inteligência artificial e automação de tarefas.
 
+
 Passo a passo para o download:
 Passo 1. Acesse o site oficial
 
@@ -10,3 +11,29 @@ Passo 2. Escolha a versão correta do python compatível com o seu sistema opera
 
 Passo 3. Para baixar o instalador, clique no botão "Download" para baixar o instalador do Python e é só salvar o arquivo em
 seu computador
+
+
+Passo a passo para a instalação do Python
+Passo 1: Depois de instalado o pyhton, execute o Instalador 
+
+Passo 2: Dê um duplo clique no arquivo (normalmente na pasta downloads) para iniciar o processo de instalação.
+
+Passo 3: Na primeira tela, marque a caixa "Add Python 3.x to PATH" para garantir que o Python possa ser acessado de qualquer lugar do seu sistema.
+
+Passo 4: Clique em "Next" e siga as instruções na tela.
+
+Passo 5: Aceite os termos da licença e clique em "Install Now".
+
+Passo 6: Aguarde a conclusão da instalação.
+
+Passo 7: Verifique se a Instalação Foi Bem-Sucedida
+
+Passo 8: Abra o Prompt de Comando do Windows (pressione "Windows + R", digite "cmd" e pressione Enter).
+
+Passo 9: Digite o comando python3 --version e pressione Enter.(Se a instalação foi bem-sucedida, você verá a versão do Python instalada exibida na tela.)
+
+Passo 10: Instale o Editor de Código (Opcional)
+
+Passo 11: Baixe, instale e configure o editor(EX: VsCode) de acordo com suas preferências.
+
+Com o Python instalado e um editor de código configurado, você está pronto para começar a escrever seus primeiros programas Python.
