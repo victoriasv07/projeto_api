@@ -3,3 +3,10 @@ Python é uma linguagem de programação versátil e popular, conhecida por sua 
 diversos tipos de aplicações, desde programas simples até projetos complexos, devido à sua sintaxe clara e ampla gama de bibliotecas.
 É muito utilizada em áreas como desenvolvimento web, ciência de dados, inteligência artificial e automação de tarefas.
 
+Passo a passo para o download:
+Passo 1. Acesse o site oficial
+
+Passo 2. Escolha a versão correta do python compatível com o seu sistema operacional
+
+Passo 3. Para baixar o instalador, clique no botão "Download" para baixar o instalador do Python e é só salvar o arquivo em
+seu computador
