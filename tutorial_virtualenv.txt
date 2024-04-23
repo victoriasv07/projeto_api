@@ -10,3 +10,12 @@ Passo 2. Digite o seguinte comando e pressione Enter: pip install virtualenv
 
 Passo 3. Para confirmar se o Virtualenv foi instalado corretamente, digite o seguinte comando e pressione Enter: virtualenv --version
 Se a instalação foi bem-sucedida, você verá a versão do Virtualenv instalada exibida na tela.
+
+
+Como instalar o Flask:
+Essa instalação necessita do virtualenv já instalado!
+
+Passo 1. Para instalar, use o pip para instalar o Flask: pip install Flask
+
+Passo 2. Você pode verificar se o Flask foi instalado corretamente executando o seguinte comando no prompt de comando: python -c "import flask; print(flask.__version__)"
+Se a instalação foi bem-sucedida, você verá a versão do Flask instalada exibida na tela.
