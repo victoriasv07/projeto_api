@@ -1,0 +1,5 @@
+O que é python:
+Python é uma linguagem de programação versátil e popular, conhecida por sua simplicidade e legibilidade. Ela permite a criação de 
+diversos tipos de aplicações, desde programas simples até projetos complexos, devido à sua sintaxe clara e ampla gama de bibliotecas.
+É muito utilizada em áreas como desenvolvimento web, ciência de dados, inteligência artificial e automação de tarefas.
+
